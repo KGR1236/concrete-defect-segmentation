@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.1.2+cu121
+torchvision==0.16.2+cu121
+
+numpy==1.26.4
+pillow
+scipy
+scikit-learn
+matplotlib
+segmentation-models-pytorch
+transformers
+safetensors
