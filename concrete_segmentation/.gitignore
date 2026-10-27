@@ -1,0 +1,10 @@
+# 모델 가중치 / 데이터는 레포에 올리지 않음
+*.pth
+*.pt
+checkpoints/
+data/
+*.jpg
+*.jpeg
+*.png
+__pycache__/
+.ipynb_checkpoints/
